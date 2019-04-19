@@ -1,0 +1,10 @@
+{
+  "name": "genetic-algorithm-study",
+  "version": "1.0.0",
+  "description": "collection of projects to study Genetic Algorithm",
+  "main": "index.js",
+  "repository": "git@github.com:thiago-rezende/genetic-algorithm-study.git",
+  "author": "Thiago Rezende <bitrateti@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
