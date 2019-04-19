@@ -6,3 +6,22 @@
 
 - [x] Graph Theory
 - [x] Tree Data Structure
+
+## Repo Structure
+```
+.                            # Repo root.
+├── prjs                     # Projects directory.
+│   ├── graphs_theory        # Project.
+│   └── tree_data_structure  # Project.
+└── package.json             # Node.JS setup file.
+```
+
+## Project Structure
+- Each project within the folder will have a structure similar to the following.
+```
+.                          # Project root.
+├── resources              # Acquired information.
+│   └── related_links.txt  # Related information.
+└── src                    # Sources folder.
+    └── index.js           # Entry point.
+```
