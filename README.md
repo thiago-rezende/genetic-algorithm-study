@@ -2,7 +2,7 @@
 
 - Collection of projects to study genetic algorithm with node.js
 
-## Project list
+## Projects list
 
 - [x] Graph Theory
 - [x] Tree Data Structure
