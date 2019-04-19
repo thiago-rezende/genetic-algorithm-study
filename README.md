@@ -7,6 +7,8 @@
 - [x] Graph Theory
 - [x] Tree Data Structure
 
+- More will be added with the progression of the study.
+
 ## Repo Structure
 ```
 .                            # Repo root.
