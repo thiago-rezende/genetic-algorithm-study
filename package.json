@@ -6,5 +6,8 @@
   "repository": "git@github.com:thiago-rezende/genetic-algorithm-study.git",
   "author": "Thiago Rezende <bitrateti@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
 }
