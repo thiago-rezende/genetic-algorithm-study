@@ -19,7 +19,7 @@
 ```
 
 ## Project Structure
-- Each project within the folder will have a structure similar to the following.
+- Each project within the folder ``prjs`` will have a structure similar to the following.
 ```
 .                          # Project root.
 ├── resources              # Acquired information.
