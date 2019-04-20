@@ -6,8 +6,17 @@
   "repository": "git@github.com:thiago-rezende/genetic-algorithm-study.git",
   "author": "Thiago Rezende <bitrateti@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
+  "scripts": {
+    "start": "babel-node ./index.js"
+  },
   "devDependencies": {
     "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/node": "^7.2.2",
+    "@babel/preset-env": "^7.4.3"
   }
 }
