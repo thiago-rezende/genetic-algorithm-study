@@ -4,7 +4,7 @@
 
 ## Projects list
 
-- [-] Graph Theory
+- [x] Graph Theory
 - [ ] Tree Data Structure
 
 - More will be added with the progression of the study.
